@@ -11,3 +11,7 @@ Uses https://www.pygame.org
 ### Running
 
 python app.py
+
+### Preview
+
+![Alt text](/preview.png?raw=true "Preview")
